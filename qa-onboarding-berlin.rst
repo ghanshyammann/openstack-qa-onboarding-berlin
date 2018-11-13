@@ -19,6 +19,7 @@ About us
 ========
 
 * Ghanshyam Mann (IRC: gmann)
+* Attila Fazekas (IRC: afazekas)
 
 Outlines:
 =========
